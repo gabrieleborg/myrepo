@@ -18,3 +18,13 @@ a <- 5
 a
 ```
 
+#I then add a second sentence with some code that will exemplifies my abilities
+```{r}
+a<- 5
+a
+b <- a*0.01
+b
+c<- a*b
+c
+```
+

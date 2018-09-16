@@ -21,3 +21,32 @@ a
 ## [1] 5
 ```
 
+#I then add a second sentence with some code that will exemplifies my abilities
+
+```r
+a<- 5
+a
+```
+
+```
+## [1] 5
+```
+
+```r
+b <- a*0.01
+b
+```
+
+```
+## [1] 0.05
+```
+
+```r
+c<- a*b
+c
+```
+
+```
+## [1] 0.25
+```
+
